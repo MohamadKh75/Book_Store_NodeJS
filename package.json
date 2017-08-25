@@ -1,0 +1,19 @@
+{
+  "name": "book_store_nodejs",
+  "version": "1.0.0",
+  "description": "My Simple Book Store App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamadKh75/Book_Store_NodeJS.git"
+  },
+  "author": "MohamadKh75",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohamadKh75/Book_Store_NodeJS/issues"
+  },
+  "homepage": "https://github.com/MohamadKh75/Book_Store_NodeJS#readme"
+}
