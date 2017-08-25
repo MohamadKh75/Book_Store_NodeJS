@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MohamadKh75/Book_Store_NodeJS.git"
